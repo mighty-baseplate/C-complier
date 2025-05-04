@@ -15,8 +15,5 @@ This is a basic C compiler built for experimentation and educational exploration
 - **i.** This compiler converts high-level C code into binary (machine code).
 - **ii.** The output is an executable file named `a.out` by default.
 - **iii.** The main source code file is `main.c`.
-- **iv.** Compile the program using:
-  ```bash
-  
-  gcc main.c
-Run the program with   ./a.out
+- **iv.** Compile the program using:  `gcc main.c`.
+- **v.** Run the program with   `./a.out`.
