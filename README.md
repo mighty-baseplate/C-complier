@@ -1,19 +1,15 @@
 # 🛠️ C-Compiler (Sandbox Project)
 
-This is a basic C compiler built for experimentation and educational exploration. It is part of a sandbox environment to understand compiler design principles such as:
+This is a basic C compiler built for experimentation and educational exploration.
+It is part of a sandbox environment
 
-- Lexical Analysis
-- Parsing
-- Code Generation
-
-> ⚠️ This project is not intended for production use. It is a personal sandbox to test and learn.
+ This project is not intended for production use. It is a personal sandbox to test and learn.
 
 ---
 
-## 🔧 How It Works
+##  How It Works
 
-- **i.** This compiler converts high-level C code into binary (machine code).
-- **ii.** The output is an executable file named `a.out` by default.
-- **iii.** The main source code file is `main.c`.
-- **iv.** Compile the program using:  `gcc main.c`.
-- **v.** Run the program with   `./a.out`.
+- **i.** The output is an executable file named `a.out` by default.
+- **ii.** The main source code file is `main.c`.
+- **iii.** Compile the program using:  `gcc main.c`.
+- **iv.** Run the program with   `./a.out`.
